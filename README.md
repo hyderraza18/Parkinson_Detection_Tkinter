@@ -1,24 +1,24 @@
-# Parkinson's Disease Detection System
+# Parkinson's Disease Detection System 🧠🎤
 
-## Description  
+## 📝 Description  
 This machine learning-based application is designed for early detection of Parkinson’s disease using vocal features. By analyzing audio samples, the system uses Mel Frequency Cepstral Coefficients (MFCC) to extract relevant vocal features and employs four machine learning models (SVM, Random Forest, KNN, and CNN) for classification. The application provides real-time analysis by processing live audio input, making it a useful tool for continuous monitoring and early detection.
 
-## Features  
-- **Live Audio Input Processing**: Allows users to record or upload audio samples for analysis.
-- **Machine Learning Models**: Utilizes four models (SVM, Random Forest, KNN, CNN) to classify audio samples into healthy or Parkinson's disease categories.
-- **User-Friendly Interface**: A simple and intuitive interface for easy interaction.
-- **Real-Time Results**: Instant feedback based on the analysis of vocal features.
+## ✨ Features  
+- 🎙️ **Live Audio Input Processing**: Allows users to record or upload audio samples for analysis.
+- 🤖 **Machine Learning Models**: Utilizes four models (SVM, Random Forest, KNN, CNN) to classify audio samples into healthy or Parkinson's disease categories.
+- 👩‍💻 **User-Friendly Interface**: A simple and intuitive interface for easy interaction.
+- ⚡ **Real-Time Results**: Instant feedback based on the analysis of vocal features.
 
-## Technologies Used  
-- **Programming Language**: Python
+## 🔧 Technologies Used  
+- **Programming Language**: Python 🐍
 - **Libraries**: `librosa`, `numpy`, `pandas`, `tensorflow.keras`
 - **Machine Learning Models**: SVM, Random Forest, KNN, CNN
 - **Tools**: Jupyter Notebook, VS Code
 
-## Setup  
+## ⚙️ Setup  
 Follow these steps to set up the project on your local machine:
 
-1. Clone the repository:
+1. 🧑‍💻 Clone the repository:
    ```bash
    git clone https://github.com/your-username/parkinsons-disease-detection.git
    
