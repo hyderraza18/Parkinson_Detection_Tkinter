@@ -21,18 +21,18 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/parkinsons-disease-detection.git
+   
+## Usage 🚀  
+1. **Launch** the application. 🖥️  
+2. **Record** or **upload** an audio sample for analysis. 🎤  
+3. Wait for the system to process the sample. ⏳  
+4. **View** the result, which indicates whether the sample is from a healthy control or a Parkinson's disease patient. 🧑‍⚕️🤖  
 
-## Usage  
-1. Launch the application.
-2. Record or upload an audio sample for analysis.
-3. Wait for the system to process the sample.
-4. View the result, which indicates whether the sample is from a healthy control or a Parkinson's disease patient.
+## License 📜  
+This project is licensed under the **MIT License**. 
 
-## License  
-This project is licensed under the MIT License.
-
-## Acknowledgments  
-- **Machine Learning Models**: For feature extraction and classification.
-- **librosa**: For audio processing.
-- **TensorFlow**: For building the deep learning model.
-- **Python**: For the core programming language and integration.
+## Acknowledgments 🙏  
+- **Machine Learning Models**: For feature extraction and classification. 🧠  
+- **librosa**: For audio processing. 🎶  
+- **TensorFlow**: For building the deep learning model. 🧑‍💻  
+- **Python**: For the core programming language and integration. 🐍
